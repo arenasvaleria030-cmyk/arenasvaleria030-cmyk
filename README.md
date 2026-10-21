@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Banner de Valeria Lizcano Portafolio" />
+</p>
+
+
 <h1 align="center">Valeria Lizcano</h1>
 
 <p align="center">
